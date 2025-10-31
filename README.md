@@ -41,7 +41,8 @@ For example, the word "professors" is one of the keywords for the teaching topic
 "professor" is not. If this were added, and the word "difficult" removed from the technology topic for being too
 generalised and applicable to a wide range of topics, we would see a shift in the number of complaints assigned to each
 topic.
-![wordcloud final.png](..%2F..%2FDesktop%2FUniversity%2FCourse%20books%2FData%20Analysis%20Project%2Fwordcloud%20final.png)
+<img width="566" height="296" alt="wordcloud final" src="https://github.com/user-attachments/assets/05af1b06-332b-4ed2-b963-22957b832c28" />
+
 
 ## Conclusion
 In this project, I found that TF-IDF and NMF were the most suitable NLP techniques for topic extraction. Although they
